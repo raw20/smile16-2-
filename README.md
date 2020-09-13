@@ -29,3 +29,9 @@
 ![그림01](https://user-images.githubusercontent.com/62588402/93013081-288c8a80-f5e0-11ea-857e-b9b536ab9b96.jpg)
 ![그림02](https://user-images.githubusercontent.com/62588402/93013092-39d59700-f5e0-11ea-9285-035127fe6257.jpg)
 
+## 기간
+기말고사 이전까지
+
+## 예상되는 문제점
+1. 엡과 라즈베리파이의 연동이 잘 될수 있을까?
+2. 앱에서 설정한 일정을 스피커로 음성출력을 할 수 있을까?
